@@ -11,7 +11,7 @@ title: Student Blog
 
 <h1 style="text-align: center;"> All about me: </h1>
 
-<center> <img src="images/freeform-ankit.jpg" alt="AP-CSP-Freeform-picture-Ankit" width="400" height="400"></a> </center>
+<center> <img src="images/freeform-ankit.jpg" alt="AP-CSP-Freeform-picture-Ankit" width="400" height="400"> </center>
 
 - I am a junior at Del Norte High School, and am deeply interested in aeronautical/astronautical engineering and astrophysics.
 - I have been playing soccer for over 9 years and currently play for SDSC Surf here in San Diego. 
