@@ -11,7 +11,7 @@ title: Student Blog
 
 <h1 style="text-align: center;"> All about me: </h1>
 
-<center> <a href="https://ibb.co/D91N56Y"><img src="https://i.ibb.co/K25YFQD/AP-CSP-Freeform-picture-Ankit.jpg" alt="AP-CSP-Freeform-picture-Ankit" border="0"></a> </center>
+<center> <img src="images/freeform-ankit.jpg" alt="AP-CSP-Freeform-picture-Ankit" width="400" height="400"></a> </center>
 
 - I am a junior at Del Norte High School, and am deeply interested in aeronautical/astronautical engineering and astrophysics.
 - I have been playing soccer for over 9 years and currently play for SDSC Surf here in San Diego. 
@@ -68,8 +68,6 @@ title: Student Blog
 - Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
 - [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
 - Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder.
-
-Test
 
 
 
