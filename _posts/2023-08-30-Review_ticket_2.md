@@ -1,11 +1,11 @@
 ---
 toc: true
-comments: true
+comments: false
 layout: post
-title: Review Ticket 2
-description: Example Review Ticket!!! This will help us communicate results.
+title: Review Ticket 1
+description: This shows planning and notes from hacks.
 type: tangibles
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 0} }
 ---
 
 ### Summary of Accomplishments

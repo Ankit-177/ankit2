@@ -2,8 +2,8 @@
 toc: true
 comments: false
 layout: post
-title: More Detail Plan
-description: Example Plan!!! Analyze hacks and plan.
+title: Week 1 Plan
+description: This is the plan for week 1.
 type: plans
 courses: { compsci: {week: 1} }
 ---
@@ -13,7 +13,7 @@ Learning outcome. Building a personal and running GitHub Pages.
 - Monday: Schedule Live Review - 4 minutes. Finish Tools setup. Attend Office Hours on HTML, CSS, JS and Student Blog.
 - Tuesday: Read [Markdown Student Page](https://nighthawkcoders.github.io/teacher//c4.3/c5.0/2023/08/17/markdown-html_fragments.html), Attend Office Hours on Updating Home Page and Plan Page.
 - Wednesday: Work Plan Page and Home Page.  Prep with pair on live review.
-- Thursday: 10:45 live review per Canvas.  Read [Linux Shell and Bash](https://nighthawkcoders.github.io/teacher//5.a/c4.1/2023/08/16/linux_shell_IPYNB_2_.html).  Tranfer blog and customize for my lab notebook.
+- Thursday: 10:45 live review per Canvas. Tranfer blog and customize for my lab notebook.
 
 
 ### Pair Planning Meeting
