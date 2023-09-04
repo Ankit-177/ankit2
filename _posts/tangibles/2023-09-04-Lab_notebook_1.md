@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Lab notebook 2
+title: Lab notebook 1
 description: This shows planning and notes from hacks.
 type: tangibles
 courses: { compsci: {week: 1} }
