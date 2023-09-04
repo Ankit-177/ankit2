@@ -2,10 +2,10 @@
 toc: true
 comments: false
 layout: post
-title: Review Ticket 1
+title: Lab notebook 2
 description: This shows planning and notes from hacks.
 type: tangibles
-courses: { compsci: {week: 0} }
+courses: { compsci: {week: 1} }
 ---
 
 # Learnings:
