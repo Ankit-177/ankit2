@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Classic Snake Game
 description: This is the classic snake game. Follow the instructions below to start playing!
-type: tangibles
+type: hacks
 courses: { compsci: {week: 2} }
 ---
 
