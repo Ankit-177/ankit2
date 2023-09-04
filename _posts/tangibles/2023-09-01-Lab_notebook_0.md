@@ -8,7 +8,6 @@ type: tangibles
 courses: { compsci: {week: 0} }
 ---
 
-### Welcome to the first lab notebook entry!
 # Learnings:
 - The functionalities of Terminal/Windows Powershell and their uses in installing development tools.
 - The purpose of Windows Subsystem for Linux, or WSL.

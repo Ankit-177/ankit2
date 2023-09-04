@@ -9,11 +9,10 @@ courses: { compsci: {week: 0} }
 ---
 
 ### Summary of Accomplishments
-- This week was quite simple in terms of work done or changes made.
-|    Date    |    Work done   |    Work to be done    |
-| ---------- | -------------- | --------------------- |
-| 08/21 | Signed up for live review. Attended office hours to learn more about HTML, CSS and JavaScript. | - |
-| 08/22 | Polishing `index.md` with new tricks learnt in Markdown and HTML. Collaborated with pair partner to prepare for live review. | - |
-| 08/23 | Finished live review and was given a 1.8/2. | Fix `Clock skew detected` error during `make`. |
-| 08/24 | Explored Github and `github.io` deployment. | - |
-| 08/25 | Collaborate with pair partner and look at next week's plan | Finish all hacks. |
+> This week was quite simple in terms of work done or changes made.
+- I succesfully installed all the required tools and set up my initial developer environment. I also deployed my website locally.
+- I signed up for live review. I also attended office hours to learn more about HTML, CSS and JavaScript.
+- I focused on polishing `index.md` with new tricks learnt in Markdown and HTML. Additionally, I collaborated with pair partner to prepare for live review.
+- I finished the live review and was given a 1.8/2.
+- I explored Github and `github.io` deployment.
+- Finally, I collaborated with pair partner and look at next week's plan and finished all the hacks.
