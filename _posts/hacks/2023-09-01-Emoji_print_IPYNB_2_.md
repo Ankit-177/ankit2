@@ -2,7 +2,7 @@
 toc: True
 comments: False
 layout: post
-title: Python Emoji Print
+title: Python emoji print
 description: This is the installation and implementation of emojis using Python.
 type: hacks
 courses: {'compsci': {'week': 2}}
