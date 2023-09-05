@@ -16,9 +16,9 @@ courses: { compsci: {week: 3} }
         - Perhaps talk about how some of the code works (ChatGPT review)?
  
 > Show results:
-    - Web interaction in JavaScript: Completed and present in JS Output w/jquery and JS Input.
-    - Linux and interaction in VSCode: (Unsure what this means).
-    - Python and interaction in VSCode: Present in the Python emoji print, Python mean algorithm and Python quiz hacks.
+- Web interaction in JavaScript: Completed and present in JS Output w/jquery and JS Input.
+- Linux and interaction in VSCode: (Unsure what this means).
+- Python and interaction in VSCode: Present in the Python emoji print, Python mean algorithm and Python quiz hacks.
  
 > Talk further about:
 - Talk about how we needed to create a completely new repository, and how that helped with our knowledge of file management, movement of files from one VSCode project to another, and the anatomy and functionalities of Github.
