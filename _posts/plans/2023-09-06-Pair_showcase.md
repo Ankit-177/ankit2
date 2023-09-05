@@ -17,7 +17,7 @@ courses: { compsci: {week: 3} }
  
 > Show results:
 - Web interaction in JavaScript: Completed and present in JS Output w/jquery and JS Input.
-- Linux and interaction in VSCode: (Unsure what this means).
+- Linux and interaction in VSCode: Show executable code cells for the Python quiz, mean algorithm, and other Python projects.
 - Python and interaction in VSCode: Present in the Python emoji print, Python mean algorithm and Python quiz hacks.
  
 > Talk further about:
