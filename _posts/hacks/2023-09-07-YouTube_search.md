@@ -68,15 +68,25 @@ courses: { compsci: {week: 3} }
             items.forEach(item => {
                 const videoId = item.id.videoId;
                 const videoTitle = item.snippet.title;
+                const videoThumbnail = item.snippet.thumbnails.default.url;
 
                 // Create a link to the video
                 const videoLink = document.createElement('a');
                 videoLink.href = `https://www.youtube.com/watch?v=${videoId}`;
                 videoLink.textContent = videoTitle;
 
-                // Append the link to the results container
-                resultsContainer.appendChild(videoLink);
-                resultsContainer.appendChild(document.createElement('br'));
+                // Create an image element for the thumbnail
+                const thumbnailImage = document.createElement('img');
+                thumbnailImage.src = videoThumbnail;
+                thumbnailImage.alt = videoTitle;
+
+                // Create a container for the video link and thumbnail
+                const videoContainer = document.createElement('div');
+                videoContainer.appendChild(thumbnailImage);
+                videoContainer.appendChild(videoLink);
+
+                // Append the container to the results container
+                resultsContainer.appendChild(videoContainer);
             });
         }
     </script>
