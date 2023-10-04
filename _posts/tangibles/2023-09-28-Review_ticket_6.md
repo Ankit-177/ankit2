@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Review Ticket 6
+title: Review Ticket 6 (Web Programming exclusive)
 description: This shows planning and notes from hacks.
 type: tangibles
 courses: { compsci: {week: 6} }
