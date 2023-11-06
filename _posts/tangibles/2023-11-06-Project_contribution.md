@@ -96,7 +96,7 @@ These were all the files that I created for each genre in fiction.
 # Example of code for each genre:
 
 ```
-{% include nav_basics.html %}
+"% include nav_basics.html %"
 
 <html>
 <head>
