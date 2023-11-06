@@ -11,6 +11,13 @@ courses: { compsci: {week: 8} }
 # Learnings:
 - Algorithms team lesson notes:
     - Algorithms are step-by-step procedures or sets of rules used to solve problems or perform tasks
+    - Example of CollegeBoard pseudo code for addition:
+        ```
+        num1 --> 5
+        num2 --> 10
+        sum --> num1 + num2
+        display(sum)
+        ```
     - Selection:
         - Decision to make based on a given circumstance
         - Ex: is it raining? If so, bring an umbrella outside
